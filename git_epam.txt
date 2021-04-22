@@ -1,2 +1,6 @@
 testing epam git
-2 строка тестироование
+2 строка тестирование
+3.changing
+4.working
+5.testio
+6.try 12
